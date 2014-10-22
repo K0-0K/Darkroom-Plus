@@ -515,7 +515,7 @@ namespace DarkRoomW
             this.btnPageDown.Name = "btnPageDown";
             this.btnPageDown.Size = new System.Drawing.Size(20, 23);
             this.btnPageDown.TabIndex = 3;
-            this.btnPageDown.Text = "ä";
+            this.btnPageDown.Text = "?";
             this.btnPageDown.UseVisualStyleBackColor = false;
             this.btnPageDown.Click += new System.EventHandler(this.btnPageDown_Click);
             // 
@@ -530,7 +530,7 @@ namespace DarkRoomW
             this.btnLineDown.Name = "btnLineDown";
             this.btnLineDown.Size = new System.Drawing.Size(20, 23);
             this.btnLineDown.TabIndex = 2;
-            this.btnLineDown.Text = "Ô";
+            this.btnLineDown.Text = "?";
             this.btnLineDown.UseVisualStyleBackColor = false;
             this.btnLineDown.MouseDown += new System.Windows.Forms.MouseEventHandler(this.btnLineDown_MouseDown);
             this.btnLineDown.MouseUp += new System.Windows.Forms.MouseEventHandler(this.btnLineDown_MouseUp);
@@ -546,7 +546,7 @@ namespace DarkRoomW
             this.btnLineUp.Name = "btnLineUp";
             this.btnLineUp.Size = new System.Drawing.Size(19, 23);
             this.btnLineUp.TabIndex = 1;
-            this.btnLineUp.Text = "Ó";
+            this.btnLineUp.Text = "?";
             this.btnLineUp.UseVisualStyleBackColor = false;
             this.btnLineUp.MouseDown += new System.Windows.Forms.MouseEventHandler(this.btnLineUp_MouseDown);
             this.btnLineUp.MouseUp += new System.Windows.Forms.MouseEventHandler(this.btnLineUp_MouseUp);
@@ -562,7 +562,7 @@ namespace DarkRoomW
             this.btnPageUp.Name = "btnPageUp";
             this.btnPageUp.Size = new System.Drawing.Size(19, 23);
             this.btnPageUp.TabIndex = 0;
-            this.btnPageUp.Text = "ã";
+            this.btnPageUp.Text = "?";
             this.btnPageUp.UseVisualStyleBackColor = false;
             this.btnPageUp.Click += new System.EventHandler(this.btnPageUp_Click);
             // 
